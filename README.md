@@ -13,7 +13,7 @@
 • Computer Science 3
 <br>• <a href="https://github.com/smritiramakrishnan/AI-Inspirit#readme"> AI Inspirit Scholars Program</a></br>
 <h2>💻 Leadership </h2>
-• <a href="https://github.com/smritiramakrishnan/YTT#readme"> Yoga Teacher </a></br>
+• <a href="https://github.com/smritiramakrishnan/YTT#readme"> Yoga Teacher </a>
 <br>• Vice President of Yoga club</br>
 •Vice President of GirlUp club
 <br>• Vice President of Sociology Society</br>
