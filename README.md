@@ -8,7 +8,7 @@
 <br>• 1 year of Python experience</br>
 • Basic HTML
 <h2>💻 Coding Classes and Experience </h2>
-• Introduction to Coding (9th grade)
+• Introduction to Coding
 <br>• AP Computer Science A</br>
 • Computer Science 3
 <br>• <a href="https://github.com/smritiramakrishnan/AI-Inspirit#readme">   AI Inspirit Scholars Program</a></br>
