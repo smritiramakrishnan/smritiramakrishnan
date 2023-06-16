@@ -11,4 +11,4 @@
 • Introduction to Coding (9th grade)
 <br>• AP Computer Science A</br>
 • Computer Science 3
-• AI Inspirit Scholars Program
+<br>• AI Inspirit Scholars Program</br>
