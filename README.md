@@ -4,6 +4,6 @@
 <br>• <a href="https://github.com/smritiramakrishnan/Maze#readme">   Maze Solver</a> </br>
 • <a href="https://github.com/smritiramakrishnan/Blackjack#readme">   Blackjack</a>
 <h2>💻 Languages and Skills </h2>
-• Java
-<br>• Python </br>
+• 3 years of Java experience
+<br>• 1 year of Python experience</br>
 • Basic HTML
