@@ -1,7 +1,7 @@
 <h1>Smriti Ramakrishnan: Digital Portfolio</h1>
 <h2>💻 Coding Projects</h2>
 • <a href="https://github.com/smritiramakrishnan/Huffman-Compression#readme"> Huffman Compression</a>
-<br>• <a href="https://github.com/smritiramakrishnan/Maze#readme"> Maze Solver</a> </br>
+<br>• <a href="https://github.com/smritiramakrishnan/Boggle#readme"> Boggle</a> </br>
 • <a href="https://github.com/smritiramakrishnan/Blackjack#readme"> Blackjack</a>
 <h2>💻 Coding Languages </h2>
 • 3 years of Java experience
