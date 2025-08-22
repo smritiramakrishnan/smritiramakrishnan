@@ -2,7 +2,7 @@
 <h2>🏫 Education</h2>
 • Southern Methodist University: Dallas, TX
 <br> • Graduating Class: 2028 </br>
-• Computer Science Major
+• Computer Science Major and Physics Minor
 <h2>💻 Coding Projects</h2>
 • <a href="https://github.com/smritiramakrishnan/Huffman-Compression#readme"> Huffman Compression</a>
 <br>• <a href="https://github.com/smritiramakrishnan/Boggle#readme"> Boggle</a> </br>
@@ -18,5 +18,8 @@
 • Principles of Computer Science II
 <br>• Data Structures</br>
 • Linear Algebra
+<br>• Computer Organization</br>
+• Discrete Computational Structures
+<br>• Statistics</br>
 <h2>💻 Leadership </h2>
 • <a href="https://github.com/smritiramakrishnan/YTT#readme"> Yoga Teacher </a>
