@@ -7,6 +7,7 @@
 • <a href="https://github.com/smritiramakrishnan/Huffman-Compression#readme"> Huffman Compression</a>
 <br>• <a href="https://github.com/smritiramakrishnan/Boggle#readme"> Boggle</a> </br>
 • <a href="https://github.com/smritiramakrishnan/Blackjack#readme"> Blackjack</a>
+<br>• <a href="https://github.com/smritiramakrishnan/AI-Inspirit#readme"> AI Inspirit Scholars Program</a></br>
 <h2>💻 Coding Languages </h2>
 • 4 years of Java experience
 <br>• 2 year of Python experience</br>
@@ -17,6 +18,5 @@
 • Principles of Computer Science II
 <br>• Data Structures</br>
 • Linear Algebra
-<br>• <a href="https://github.com/smritiramakrishnan/AI-Inspirit#readme"> AI Inspirit Scholars Program</a></br>
 <h2>💻 Leadership </h2>
 • <a href="https://github.com/smritiramakrishnan/YTT#readme"> Yoga Teacher </a>
